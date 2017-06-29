@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.project
+.settings
+.git
+bower_components
+.DS_Store
+memo
+app
